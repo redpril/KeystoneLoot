@@ -3,6 +3,7 @@
 
 <Script file="enUS.lua"/>
 <Script file="ruRU.lua"/>
+<Script file="koKR.lua"/>
 
 
 </Ui>
